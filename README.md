@@ -60,4 +60,8 @@ The dataset is intended for academic research on:
 - Topology-aware visual modeling
 - Railway inspection and maintenance
 
-Access to the dataset is available upon request. Please contact \texttt{271047467@qq.com} to submit an access request.
+Access to the dataset is available upon request. Please contact \texttt{zhaozhihao@stu.qut.edu.cn} to submit an access request.
+
+通过网盘分享的文件：VOC2007.zip
+链接: https://pan.baidu.com/s/10_fBtjl-FGsIPmbjlvARSw?pwd=bec4 提取码: bec4 
+--来自百度网盘超级会员v1的分享
